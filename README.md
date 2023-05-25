@@ -2,7 +2,7 @@
 
 #Lithium
 ## Project - Products Management
-This is product management project. In this project we are developing only backend server . And for developing backend server we are using nodejs , express js framework and database we are using is mongodb. For authentication and authorization we are using jsonweb token .
+This is product management project. In this project we are developing only backend server . And for developing backend server we are using nodejs , express js framework and we are using is mongodb database. For authentication and authorization we are using jsonweb token .Above mention tech stack used in this project.
 
 ### Key points
 - In this project we work feature wise. That means we are pick one object like user, book, blog, etc at a time. We work through it's feature. And following steps we followed :
