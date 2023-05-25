@@ -2,21 +2,18 @@
 
 #Lithium
 ## Project - Products Management
+This is product management project. In this project we are developing only backend server . And for developing backend server we are using nodejs , express js framework and database we are using is mongodb. For authentication and authorization we are using jsonweb token .
 
 ### Key points
-- In this project we will work feature wise. That means we pick one object like user, book, blog, etc at a time. We work through it's feature. The steps would be:
+- In this project we work feature wise. That means we are pick one object like user, book, blog, etc at a time. We work through it's feature. And following steps we followed :
   1) We create it's model.
   2) We build it's APIs.
   3) We test these APIs.
   4) We deploy these APIs.
-  5) We integrate these APIs with frontend.
-  6) We will repeat steps from Step 1 to Step 5 for each feature in this project.
-- This project is divided into 4 features namely User, Product, Cart and Order. You need to work on a single feature at a time. Once that is completed as per above mentioned steps. You will be instructed to move to next Feature.
-- In this project we are changing how we send token with a request. Instead of using a custom header key like x-api-key, you need to use Authorization header and send the JWT token as Bearer token.
-- Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
-- This time each group should have a *single git branch*. Coordinate amongst yourselves by ensuring every next person pulls the code last pushed by a team mate. You branch will be checked as part of the demo. Branch name should follow the naming convention `project/productsManagementGroupX`
-- Follow the naming conventions exactly as instructed.
-
+  5) We repeated these steps from Step 1 to Step 5 for each feature in this project.
+- This project is divided into 4 features namely User, Product, Cart and Order. We are working on a single feature at a time. Once that is completed as per above mentioned steps. And then we are moving to next Feature.
+- In this project we are changing how we send token with a request. Instead of using a custom header key like x-api-key,using Authorization header and sending the JWT token as Bearer token.
+- Create a group database `group34Database`.
 
 ## FEATURE I - User
 ### Models
